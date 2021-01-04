@@ -1,0 +1,25 @@
+/* The HEX codes of the used colours are
+004165: Blue
+F2DF74 : Yellow
+A9B2B1: gray
+CD202C : Red */
+body {
+  margin: 0;
+  background-color: #004165;
+  border-top: 30px solid #cd202c;
+  border-bottom: 30px solid #cd202c;
+  height: 100vh;
+}
+.yellow-border {
+  background-color: #f2df74;
+  height: 20px;
+  width: 100%;
+}
+#logo {
+  height: 200px;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2rem 0;
+}
