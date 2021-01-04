@@ -9,6 +9,7 @@ body {
   border-top: 2vh solid #cd202c;
   border-bottom: 2vh solid #cd202c;
   height: 96vh;
+  font-family: "Poppins", sans-serif;
 }
 .yellow-border {
   background-color: #f2df74;
@@ -42,11 +43,12 @@ a {
   justify-content: center;
   align-items: center;
   text-decoration: none;
-  font-size: 3vh;
+  font-size: 2.5vh;
+  font-weight: 200;
   color: white;
   width: 100%;
   text-align: center;
   background-color: rgba(169, 178, 177, 0.5);
   height: 8vh;
-  margin-top: 2vh;
+  margin-top: 1.5vh;
 }
